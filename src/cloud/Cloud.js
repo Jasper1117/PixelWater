@@ -24,6 +24,8 @@ const Cloud = () => {
             <img src={cloud} alt="" className='cloud2'/>
         </Parallax>
       </div>
+      <div className="cloudBg">
+      </div>
     </div>
   )
 }

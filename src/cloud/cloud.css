@@ -20,6 +20,7 @@
     width: 130%;
     left: 45rem;
     top: -90rem;
+
 }
 
 .supermanContainer {
@@ -35,8 +36,12 @@
     left: -20rem;
     width: 20%;
 
+
 }
 
+.cloudBg {
+    background-color: azure;
+}
 
 @media screen and (max-width:1200px) {
     .superman {
@@ -74,4 +79,25 @@
     }
 
 
+}
+
+@media screen and (max-width:400px) {
+    .superman {
+        left: -5rem;
+        width: 40%;
+        top: -10rem;
+        width: 80%;
+    }
+
+    .cloud {
+        top: 25rem;
+        left: 20rem;
+        width: 170%;
+    }
+
+    .cloud2 {
+        left: -2rem;
+        top: -50rem;
+        width: 160%;
+    }
 }

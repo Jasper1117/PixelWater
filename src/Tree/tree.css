@@ -102,40 +102,15 @@
     }
 }
 
-/* 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:400px) {
     .tree3Container {
-        top: 40rem;
+        top: 130rem;
+
     }
 
     .bowel {
-        top: -26rem;
+        position: absolute;
+        top: -20rem;
     }
 
 }
-
-@media screen and (max-width:910px) {
-    .tree3Container {
-        top: 37rem;
-    }
-
-
-}
-
-@media screen and (max-width:720px) {
-    .tree3Container {
-        top: 36rem;
-        height: 100%;
-    }
-
-    .bowel {
-        top: -29rem;
-    }
-}
-
-@media screen and (max-width:500px) {
-    .tree3Container {
-        top: 32rem;
-        height: 100%;
-    }
-} */

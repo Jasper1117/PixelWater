@@ -70,3 +70,12 @@
         top: 10rem;
     }
 }
+
+@media screen and (max-width:400px) {
+    .tree {
+        position: absolute;
+
+        top: -10rem;
+    }
+
+}
