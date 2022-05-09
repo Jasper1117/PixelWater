@@ -81,7 +81,7 @@
 
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .superman {
         left: -5rem;
         width: 40%;
@@ -90,7 +90,7 @@
     }
 
     .cloud {
-        top: 25rem;
+        top: 19rem;
         left: 20rem;
         width: 170%;
     }
