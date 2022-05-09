@@ -71,11 +71,14 @@
     }
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .tree {
         position: absolute;
 
         top: -10rem;
     }
 
+    .faucet {
+        height: 60vh;
+    }
 }

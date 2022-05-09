@@ -1,8 +1,15 @@
 .tree3Container {
     position: absolute;
-    top: 190rem;
+    top: 180rem;
     background-color: #7FAD80;
+
 }
+
+.bowelCointainer {
+    overflow: hidden;
+}
+
+
 
 .bowel {
     position: absolute;
@@ -102,15 +109,15 @@
     }
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .tree3Container {
-        top: 130rem;
+        top: 134rem;
 
     }
 
     .bowel {
         position: absolute;
-        top: -20rem;
+        top: -25rem;
     }
 
 }
