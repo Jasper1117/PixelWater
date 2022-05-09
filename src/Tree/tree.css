@@ -1,0 +1,141 @@
+.tree3Container {
+    position: absolute;
+    top: 190rem;
+    background-color: #7FAD80;
+}
+
+.bowel {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    top: -40%;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+}
+
+@media screen and (max-width:2200px) {
+    .tree3Container {
+        top: 170rem;
+    }
+
+    .bowel {
+        top: -23rem;
+    }
+}
+
+@media screen and (max-width:1800px) {
+    .tree3Container {
+        top: 165rem;
+    }
+}
+
+
+@media screen and (max-width:1500px) {
+    .tree3Container {
+        top: 160rem;
+    }
+
+    .bowel {
+        top: -25rem;
+    }
+}
+
+@media screen and (max-width:1350px) {
+    .tree3Container {
+        top: 160rem;
+    }
+
+    .bowel {
+        top: -26rem;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .tree3Container {
+        top: 159rem;
+    }
+
+    .bowel {
+        top: -27rem;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .tree3Container {
+        top: 160rem;
+    }
+
+    .bowel {
+        top: -29rem;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .tree3Container {
+        top: 155rem;
+    }
+
+    .bowel {
+        top: -31rem;
+    }
+}
+
+
+@media screen and (max-width:535px) {
+    .tree3Container {
+        top: 153rem;
+    }
+
+    .bowel {
+        top: -32rem;
+    }
+}
+
+@media screen and (max-width:440px) {
+    .tree3Container {
+        top: 153rem;
+    }
+
+    .bowel {
+        top: -31rem;
+    }
+}
+
+/* 
+@media screen and (max-width:1200px) {
+    .tree3Container {
+        top: 40rem;
+    }
+
+    .bowel {
+        top: -26rem;
+    }
+
+}
+
+@media screen and (max-width:910px) {
+    .tree3Container {
+        top: 37rem;
+    }
+
+
+}
+
+@media screen and (max-width:720px) {
+    .tree3Container {
+        top: 36rem;
+        height: 100%;
+    }
+
+    .bowel {
+        top: -29rem;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .tree3Container {
+        top: 32rem;
+        height: 100%;
+    }
+} */

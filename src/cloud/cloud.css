@@ -1,0 +1,77 @@
+.cloudContainer {
+    width: 100%;
+    overflow: hidden;
+}
+
+.cloud {
+    position: relative;
+    width: 130%;
+    left: 45rem;
+    top: 10rem;
+}
+
+.cloudContainer2 {
+    width: 100%;
+    overflow: hidden;
+}
+
+.cloud2 {
+    position: relative;
+    width: 130%;
+    left: 45rem;
+    top: -90rem;
+}
+
+.supermanContainer {
+    width: 100%;
+    top: 0rem;
+    overflow: hidden;
+    background-color: azure;
+}
+
+.superman {
+    position: relative;
+    top: -20rem;
+    left: -20rem;
+    width: 20%;
+
+}
+
+
+@media screen and (max-width:1200px) {
+    .superman {
+        left: -10rem;
+        width: 30%;
+    }
+
+}
+
+
+@media screen and (max-width:950px) {
+    .superman {
+        left: -10rem;
+        width: 40%;
+        top: -30rem;
+    }
+
+    .cloud {
+        top: 23rem;
+        left: 25rem;
+    }
+
+    .cloud2 {
+
+        left: 20rem;
+    }
+
+}
+
+@media screen and (max-width:650px) {
+    .superman {
+        left: -5rem;
+        width: 40%;
+        top: -28rem;
+    }
+
+
+}
